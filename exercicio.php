@@ -16,12 +16,16 @@
         <H2>visualização do exercicios</H2>
     </header>
     <nav class="navegacao">
-    <a href="#" class="verde"> sem formataçao</a>
+    <a href= <?= "/{$_GET['dir']}/teste.php" ?> class="verde"> sem formataçao</a>
     <a href="index.php" class="vermelho">voltar</a>
 
     </nav>
         <main class="principal">
            <div class="conteudo">
+                <?php
+                     // include($_GET['dir'] . "/" . $_GET['file'] . ".php" );
+                     include("{$_GET['dir']}/teste.php");
+                    ?>
 
            </div>
         </main>

@@ -20,73 +20,7 @@
                     <div class="modulo verde">
                         <h3>modulo 01 </h3>
                         <ul>
-                            <li><a href="exercicio.php"> exercicios A</a></li>
-                        <li><a href="#"> exercicios B</a></li>
-                        <li><a href="#"> exercicios C</a></li>
-                        </ul>
-                    </div>
-                     <div class="modulo vermelho">
-                        <h3>modulo 02</h3>
-                        <ul>
-                            <li><a href="#"> exercicios A</a></li>
-                        <li><a href="#"> exercicios B</a></li>
-                        <li><a href="#"> exercicios C</a></li>
-                        </ul>
-                    </div>
-                     <div class="modulo azul">
-                        <h3>modulo 03 </h3>
-                        <ul>
-                            <li><a href="#"> exercicios A</a></li>
-                        <li><a href="#"> exercicios B</a></li>
-                        <li><a href="#"> exercicios C</a></li>
-                        </ul>
-                    </div>
-                     <div class="modulo roxo">
-                        <h3>modulo 04</h3>
-                        <ul>
-                            <li><a href="#"> exercicios A</a></li>
-                        <li><a href="#"> exercicios B</a></li>
-                        <li><a href="#"> exercicios C</a></li>
-                        </ul>
-                    </div>
-                     <div class="modulo laranja">
-                        <h3>modulo 05</h3>
-                        <ul>
-                            <li><a href="#"> exercicios A</a></li>
-                        <li><a href="#"> exercicios B</a></li>
-                        <li><a href="#"> exercicios C</a></li>
-                        </ul>
-                    </div>
-                     <div class="modulo verde-escuro">
-                        <h3>modulo 06</h3>
-                        <ul>
-                            <li><a href="#"> exercicios A</a></li>
-                        <li><a href="#"> exercicios B</a></li>
-                        <li><a href="#"> exercicios C</a></li>
-                        </ul>
-                    </div>
-                     <div class="modulo vermelho-escuro">
-                        <h3>modulo 07</h3>
-                        <ul>
-                            <li><a href="#"> exercicios A</a></li>
-                        <li><a href="#"> exercicios B</a></li>
-                        <li><a href="#"> exercicios C</a></li>
-                        </ul>
-                    </div>
-                     <div class="modulo azul-escuro">
-                        <h3>modulo 08</h3>
-                        <ul>
-                            <li><a href="#"> exercicios A</a></li>
-                        <li><a href="#"> exercicios B</a></li>
-                        <li><a href="#"> exercicios C</a></li>
-                        </ul>
-                    </div>
-                     <div class="modulo roxo-escuro">
-                        <h3>modulo 09 </h3>
-                        <ul>
-                            <li><a href="#"> exercicios A</a></li>
-                        <li><a href="#"> exercicios B</a></li>
-                        <li><a href="#"> exercicios C</a></li>
+                            <li><a href="exercicio.php?dir=teste&file=teste"> exercicios A</a></li>
                         </ul>
                     </div>
                 </nav>
