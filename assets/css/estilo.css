@@ -66,3 +66,75 @@ body {
     color: #444;
     
 }
+
+.modulos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.modulo {
+    flex-basis: 32%;
+    margin-bottom: 20px;
+}
+
+.modulo > h3 {
+    margin: 0px;
+    color: white;
+    font-size: 1.5rem;
+    padding: 10 px 20px;
+    background-color: blue;
+
+}
+
+.modulo > ul {
+    margin: 0px;
+    padding: 10px;
+    list-style: none;
+}
+
+.modulo >ul >li {
+    padding: 7px ;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.modulo > ul > li > a {
+    display: flex;
+    text-decoration: none;
+    color: #222;
+
+}
+
+.modulo >ul > li:hover {
+    background-color: #eee;
+}
+
+
+.modulo.verde { border:2px solid green;}
+.modulo.verde > h3 {background-color: green;}
+
+.modulo.vermelho { border:2px solid red;}
+.modulo.vermelho > h3 {background-color: red;}
+
+.modulo.azul { border:2px solid blue;}
+.modulo.azul > h3 {background-color: blue;}
+
+.modulo.roxo { border:2px solid purple;}
+.modulo.roxo > h3 {background-color: purple;}
+
+.modulo.laranja { border:2px solid orange;}
+.modulo.laranja > h3 {background-color: orange;}
+
+.modulo.verde-escuro { border:2px solid #1b5e20;}
+.modulo.verde-escuro > h3 {background-color: #1b5e20;}
+
+.modulo.vermelho-escuro { border:2px solid #b71c1c;}
+.modulo.vermelho-escuro > h3 {background-color: #b71c1c;}
+
+.modulo.azul-escuro { border:2px solid #0d47a1;}
+.modulo.azul-escuro > h3 {background-color: #0d47a1;}
+
+.modulo.roxo-escuro { border:2px solid #4a148c;}
+.modulo.roxo-escuro > h3 {background-color: #4a148c;}
