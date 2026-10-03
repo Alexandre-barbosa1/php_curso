@@ -20,7 +20,7 @@
                     <div class="modulo verde">
                         <h3>modulo 01 </h3>
                         <ul>
-                            <li><a href="#"> exercicios A</a></li>
+                            <li><a href="exercicio.php"> exercicios A</a></li>
                         <li><a href="#"> exercicios B</a></li>
                         <li><a href="#"> exercicios C</a></li>
                         </ul>
@@ -93,7 +93,7 @@
             </div>
         </main>
         <footer class="rodape">
-            coder e alunos 2019
+            coder e alunos  <?= date("Y");  ?> 
         
 
 
