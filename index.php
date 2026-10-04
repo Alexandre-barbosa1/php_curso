@@ -35,6 +35,16 @@
                                    Integração css
                                 </a>
                             </li>
+                             <li>
+                               <a href="exercicio.php?dir=basico&file=comentarios"> 
+                                   comentarios php
+                                </a>
+                            </li>
+                             <li>
+                               <a href="exercicio.php?dir=basico&file=desafio"> 
+                                   desafio 1 
+                                </a>
+                            </li>
                             </ul>
                     </div>
                 </nav>

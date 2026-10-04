@@ -33,7 +33,7 @@ echo '</small>'
         color: blue;
     }
 
-    [dobro] {
+    [dobro] { 
         font-size: <?= 10 - 8 ?>rem;
     }
 </style>
