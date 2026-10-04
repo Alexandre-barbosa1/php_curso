@@ -25,6 +25,11 @@
                                     Ola php
                                  </a>
                              </li>
+                              <li>
+                                <a href="exercicio.php?dir=basico&file=html"> 
+                                    Integração html
+                                 </a>
+                             </li>
                         </ul>
                     </div>
                 </nav>
