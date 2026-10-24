@@ -49,16 +49,37 @@
                     </div>
                      <div class="modulo vermelho">
                         <h3>tipos </h3>
+                        <ul>
                             <li>
                                 <a href="exercicio.php?dir=tipos&file=int"> 
                                     Tipo inteiro
                                  </a>
                             </li>
+
                               <li>
                                 <a href="exercicio.php?dir=tipos&file=float"> 
                                     Tipo float
                                  </a>
                              </li>
+
+                              <li>
+                                <a href="exercicio.php?dir=tipos&file=aritmeticas"> 
+                                    op. aritimeticas
+                                 </a>
+                             </li>
+
+                             <li>
+                                <a href="exercicio.php?dir=tipos&file=desafio_precedencia"> 
+                                    desafio precedencia
+                                 </a>
+                             </li>
+
+                              <li>
+                                <a href="exercicio.php?dir=tipos&file=string"> 
+                                    tipo string
+                                 </a>
+                             </li>
+                             </ul>
                     </div>
                 </nav>
             </div>
