@@ -47,20 +47,24 @@
                             </li>
                             </ul>
                     </div>
-                </nav>
-            </div>
-              <div class="modulo vermelho">
+                     <div class="modulo vermelho">
                         <h3>tipos </h3>
-                        <ul>
-                              <li>
+                            <li>
                                 <a href="exercicio.php?dir=tipos&file=int"> 
                                     Tipo inteiro
                                  </a>
+                            </li>
+                              <li>
+                                <a href="exercicio.php?dir=tipos&file=float"> 
+                                    Tipo float
+                                 </a>
                              </li>
-                        </ul>
                     </div>
                 </nav>
             </div>
+                </nav>
+            </div>
+             
         </main>
         <footer class="rodape">
             coder e alunos  <?= date("Y");  ?> 

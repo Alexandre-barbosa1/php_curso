@@ -2,7 +2,7 @@
 
 <?php
 echo 11;
-echo 'br';
+echo '<br>';
 var_dump(11);
 echo '<br>';
 
